@@ -1,0 +1,6983 @@
+[
+    {
+        "traceId": "2",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 11:33:58",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "8",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 11:36:33",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "10",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 12:00:32",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "11",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 12:02:49",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "12",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 12:03:07",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "13",
+        "user": "tdelille",
+        "action": {
+            "type": "Poster un nouveau message",
+            "date": "2009-02-12 12:08:32",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "14",
+        "user": "tdelille",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-12 12:16:59",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "15",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 12:16:59",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "16",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 12:17:21",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "11"
+        }
+    },
+    {
+        "traceId": "17",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 12:17:24",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "18",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 12:18:12",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "19",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 12:18:19",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "20",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 12:18:44",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "24",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-12 12:47:28",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "25",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 12:47:28",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "26",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-12 12:47:56",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "28",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-12 12:59:12",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1164",
+            "idParent": "1163"
+        }
+    },
+    {
+        "traceId": "29",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-12 12:59:19",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "30",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-12 12:59:24",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1164"
+        }
+    },
+    {
+        "traceId": "31",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-12 13:01:19",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "32",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 13:02:14",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "46",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 13:47:17",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "47",
+        "user": "tdelille",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-12 14:31:13",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "48",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 14:31:14",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "49",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-12 14:31:17",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1164"
+        }
+    },
+    {
+        "traceId": "50",
+        "user": "tdelille",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-12 14:39:15",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1165",
+            "idParent": "1164"
+        }
+    },
+    {
+        "traceId": "51",
+        "user": "sebastien",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 15:51:57",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "52",
+        "user": "sebastien",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-12 15:52:04",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "53",
+        "user": "sebastien",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-12 15:52:34",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1164"
+        }
+    },
+    {
+        "traceId": "54",
+        "user": "sebastien",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-12 15:52:58",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1165"
+        }
+    },
+    {
+        "traceId": "55",
+        "user": "sebastien",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 15:53:44",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "56",
+        "user": "sebastien",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 15:54:02",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "57",
+        "user": "sebastien",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 15:54:25",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "58",
+        "user": "sebastien",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-12 15:54:36",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "59",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-12 15:55:39",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "60",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 15:55:39",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "61",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 15:55:50",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "62",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-12 15:56:04",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1165"
+        }
+    },
+    {
+        "traceId": "63",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-12 16:00:05",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1166",
+            "idParent": "1165"
+        }
+    },
+    {
+        "traceId": "64",
+        "user": "tdelille",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-12 16:14:23",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "65",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 16:14:23",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "66",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-12 16:14:26",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1166"
+        }
+    },
+    {
+        "traceId": "67",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-12 16:14:56",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1165"
+        }
+    },
+    {
+        "traceId": "68",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-12 16:15:32",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "69",
+        "user": "tdelille",
+        "action": {
+            "type": "Poster un nouveau message",
+            "date": "2009-02-12 16:20:40",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1167"
+        }
+    },
+    {
+        "traceId": "135",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 02:45:03",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "134",
+        "user": "gachort",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-13 02:45:03",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "136",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 02:45:15",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "137",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 02:45:31",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1164"
+        }
+    },
+    {
+        "traceId": "138",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 02:45:50",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1165"
+        }
+    },
+    {
+        "traceId": "139",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 02:46:02",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1166"
+        }
+    },
+    {
+        "traceId": "140",
+        "user": "gachort",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 02:51:54",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1183",
+            "idParent": "1166"
+        }
+    },
+    {
+        "traceId": "141",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 02:52:16",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "142",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 02:52:46",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "143",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 02:52:50",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1167"
+        }
+    },
+    {
+        "traceId": "144",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 02:53:08",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "11"
+        }
+    },
+    {
+        "traceId": "145",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 02:54:42",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "146",
+        "user": "madeth",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-13 03:08:25",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "147",
+        "user": "madeth",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 03:08:25",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "148",
+        "user": "madeth",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 03:08:36",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "149",
+        "user": "madeth",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-13 03:08:53",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "150",
+        "user": "admin",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-13 03:09:10",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "151",
+        "user": "admin",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 03:09:11",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "152",
+        "user": "mmay",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-13 03:10:40",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "153",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 03:10:41",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "154",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 03:10:46",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "155",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 03:10:55",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "156",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 03:11:05",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "157",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 03:11:09",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "11"
+        }
+    },
+    {
+        "traceId": "158",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 03:11:16",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "159",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-13 03:11:18",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "160",
+        "user": "mmay",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-13 03:27:36",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "161",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 03:27:36",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "162",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-13 03:27:42",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "163",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-13 03:27:50",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "164",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-13 03:30:09",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "165",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-13 03:30:13",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "166",
+        "user": "mmay",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 03:40:13",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184",
+            "idParent": "1183"
+        }
+    },
+    {
+        "traceId": "167",
+        "user": "mmay",
+        "action": {
+            "type": "Citer un message",
+            "date": "2009-02-13 03:40:13",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1183"
+        }
+    },
+    {
+        "traceId": "168",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-13 03:40:20",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "169",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 03:41:42",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "170",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 03:41:45",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1167"
+        }
+    },
+    {
+        "traceId": "174",
+        "user": "admin",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 03:45:00",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "173",
+        "user": "admin",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-13 03:45:00",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "175",
+        "user": "mmay",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 03:52:08",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1185",
+            "idParent": "1167"
+        }
+    },
+    {
+        "traceId": "176",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-13 03:54:02",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1167"
+        }
+    },
+    {
+        "traceId": "177",
+        "user": "mmay",
+        "action": {
+            "type": "Poster un nouveau message",
+            "date": "2009-02-13 03:56:43",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1186"
+        }
+    },
+    {
+        "traceId": "178",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 03:56:54",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "11"
+        }
+    },
+    {
+        "traceId": "179",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 03:59:03",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "180",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-13 03:59:07",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "181",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-13 05:43:52",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "182",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 05:43:54",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "183",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 05:44:00",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1183"
+        }
+    },
+    {
+        "traceId": "184",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 05:44:17",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "193",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 05:47:55",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1187",
+            "idParent": "1184"
+        }
+    },
+    {
+        "traceId": "194",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Poster un nouveau message",
+            "date": "2009-02-13 05:48:51",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1188"
+        }
+    },
+    {
+        "traceId": "195",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Poster un nouveau message",
+            "date": "2009-02-13 05:51:19",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1189"
+        }
+    },
+    {
+        "traceId": "196",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Poster un nouveau message",
+            "date": "2009-02-13 05:52:16",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1190"
+        }
+    },
+    {
+        "traceId": "197",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 05:54:52",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1188"
+        }
+    },
+    {
+        "traceId": "198",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 05:56:30",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1191",
+            "idParent": "1188"
+        }
+    },
+    {
+        "traceId": "199",
+        "user": "madeth",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-13 06:18:40",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "200",
+        "user": "madeth",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 06:18:41",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "201",
+        "user": "madeth",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 06:18:50",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1186"
+        }
+    },
+    {
+        "traceId": "202",
+        "user": "mmay",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-13 06:19:10",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "203",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 06:19:10",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "204",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 06:19:13",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1186"
+        }
+    },
+    {
+        "traceId": "205",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 06:19:35",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "206",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 06:19:47",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "207",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-13 06:20:02",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "208",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 06:20:20",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1188"
+        }
+    },
+    {
+        "traceId": "209",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 06:20:30",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1191"
+        }
+    },
+    {
+        "traceId": "210",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 06:20:40",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1189"
+        }
+    },
+    {
+        "traceId": "211",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 06:20:50",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1190"
+        }
+    },
+    {
+        "traceId": "212",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 06:20:56",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "213",
+        "user": "gachort",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-13 07:06:56",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "214",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 07:06:58",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "215",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 07:07:10",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "216",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 07:07:48",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1187"
+        }
+    },
+    {
+        "traceId": "217",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 07:07:58",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1188"
+        }
+    },
+    {
+        "traceId": "218",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 07:08:01",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1188"
+        }
+    },
+    {
+        "traceId": "219",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 07:08:11",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1191"
+        }
+    },
+    {
+        "traceId": "220",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 07:12:19",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1189"
+        }
+    },
+    {
+        "traceId": "221",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 07:12:30",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1190"
+        }
+    },
+    {
+        "traceId": "222",
+        "user": "gachort",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 07:13:58",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1192",
+            "idParent": "1190"
+        }
+    },
+    {
+        "traceId": "223",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 07:14:12",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "224",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 07:14:25",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "225",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 07:14:29",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1185"
+        }
+    },
+    {
+        "traceId": "226",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 07:14:55",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1186"
+        }
+    },
+    {
+        "traceId": "227",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 07:17:51",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1185"
+        }
+    },
+    {
+        "traceId": "228",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 07:17:55",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1186"
+        }
+    },
+    {
+        "traceId": "229",
+        "user": "gachort",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 07:18:56",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1193",
+            "idParent": "1186"
+        }
+    },
+    {
+        "traceId": "230",
+        "user": "gachort",
+        "action": {
+            "type": "Citer un message",
+            "date": "2009-02-13 07:18:56",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1186"
+        }
+    },
+    {
+        "traceId": "231",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 07:21:05",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "232",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 07:21:09",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1183"
+        }
+    },
+    {
+        "traceId": "233",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 08:29:49",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "234",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 08:29:54",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1192"
+        }
+    },
+    {
+        "traceId": "235",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 08:30:04",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "236",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 08:30:13",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "237",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 08:30:16",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1193"
+        }
+    },
+    {
+        "traceId": "238",
+        "user": "mmay",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 08:38:18",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1194",
+            "idParent": "1193"
+        }
+    },
+    {
+        "traceId": "239",
+        "user": "mmay",
+        "action": {
+            "type": "Citer un message",
+            "date": "2009-02-13 08:38:18",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1193"
+        }
+    },
+    {
+        "traceId": "240",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 08:39:12",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "11"
+        }
+    },
+    {
+        "traceId": "241",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 08:39:17",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "242",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 08:39:29",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "243",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 08:39:36",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1189"
+        }
+    },
+    {
+        "traceId": "255",
+        "user": "cdejean",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-13 10:24:04",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "256",
+        "user": "cdejean",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 10:24:05",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "257",
+        "user": "cdejean",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 10:24:18",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "258",
+        "user": "cdejean",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 10:24:30",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1187"
+        }
+    },
+    {
+        "traceId": "259",
+        "user": "cdejean",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 10:24:44",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1191"
+        }
+    },
+    {
+        "traceId": "260",
+        "user": "cdejean",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 10:24:51",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1190"
+        }
+    },
+    {
+        "traceId": "261",
+        "user": "cdejean",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 10:25:00",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1192"
+        }
+    },
+    {
+        "traceId": "262",
+        "user": "cdejean",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 10:25:11",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "263",
+        "user": "cdejean",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 10:25:21",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "264",
+        "user": "cdejean",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 10:25:38",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "265",
+        "user": "cdejean",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 10:32:02",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "266",
+        "user": "cdejean",
+        "action": {
+            "type": "Poster un nouveau message",
+            "date": "2009-02-13 10:36:19",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "9",
+            "idMessage": "1197"
+        }
+    },
+    {
+        "traceId": "171",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-13 10:42:16",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1167"
+        }
+    },
+    {
+        "traceId": "172",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas - afficher la fin du message",
+            "date": "2009-02-13 10:42:23",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1167"
+        }
+    },
+    {
+        "traceId": "267",
+        "user": "cdejean",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 10:49:41",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "268",
+        "user": "cdejean",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 10:49:44",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "9",
+            "idMessage": "1197"
+        }
+    },
+    {
+        "traceId": "269",
+        "user": "cdejean",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 10:50:55",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "9",
+            "idMessage": "1198",
+            "idParent": "1197"
+        }
+    },
+    {
+        "traceId": "270",
+        "user": "mmay",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-13 10:53:49",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "271",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 10:53:49",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "272",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 10:54:01",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "273",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 10:54:06",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "9",
+            "idMessage": "1197"
+        }
+    },
+    {
+        "traceId": "274",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-13 10:54:12",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "9",
+            "idMessage": "1197"
+        }
+    },
+    {
+        "traceId": "275",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 10:55:37",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "276",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 10:55:47",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "277",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 10:55:54",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "11"
+        }
+    },
+    {
+        "traceId": "185",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-13 11:44:27",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "186",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-13 11:44:28",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "187",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-13 11:44:29",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "188",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-13 11:44:29",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "189",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-13 11:44:30",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "190",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-13 11:44:31",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "191",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-13 11:44:37",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "192",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Bouger la scrollbar en bas - afficher la fin du message",
+            "date": "2009-02-13 11:44:59",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "278",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-13 13:42:03",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "279",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 13:42:05",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "280",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 13:42:22",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1192"
+        }
+    },
+    {
+        "traceId": "281",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 13:42:35",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1190"
+        }
+    },
+    {
+        "traceId": "282",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 13:42:41",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1192"
+        }
+    },
+    {
+        "traceId": "283",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 13:42:45",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "284",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 13:42:46",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "285",
+        "user": "gachort",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-13 14:21:40",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "286",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 14:21:42",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "287",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 14:22:03",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "288",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 15:04:41",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "289",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 15:05:26",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "290",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 15:05:33",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1193"
+        }
+    },
+    {
+        "traceId": "291",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 15:05:47",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1194"
+        }
+    },
+    {
+        "traceId": "294",
+        "user": "gachort",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 15:09:50",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1199",
+            "idParent": "1194"
+        }
+    },
+    {
+        "traceId": "295",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 15:10:00",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "11"
+        }
+    },
+    {
+        "traceId": "296",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 15:10:08",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "297",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 15:10:14",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1167"
+        }
+    },
+    {
+        "traceId": "298",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 15:10:16",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1185"
+        }
+    },
+    {
+        "traceId": "299",
+        "user": "tdelille",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-13 17:12:40",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "300",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 17:12:42",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "301",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:12:50",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1185"
+        }
+    },
+    {
+        "traceId": "302",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:13:18",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1186"
+        }
+    },
+    {
+        "traceId": "303",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:13:25",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1193"
+        }
+    },
+    {
+        "traceId": "304",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:13:34",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1194"
+        }
+    },
+    {
+        "traceId": "305",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:13:47",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1199"
+        }
+    },
+    {
+        "traceId": "306",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:13:56",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1186"
+        }
+    },
+    {
+        "traceId": "307",
+        "user": "tdelille",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 17:15:21",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1200",
+            "idParent": "1186"
+        }
+    },
+    {
+        "traceId": "308",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 17:15:35",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "309",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:15:46",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1183"
+        }
+    },
+    {
+        "traceId": "310",
+        "user": "tdelille",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 17:16:44",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1201",
+            "idParent": "1183"
+        }
+    },
+    {
+        "traceId": "311",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:16:51",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "312",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:17:55",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1187"
+        }
+    },
+    {
+        "traceId": "313",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:18:12",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1188"
+        }
+    },
+    {
+        "traceId": "314",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:18:21",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1191"
+        }
+    },
+    {
+        "traceId": "315",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:18:28",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1189"
+        }
+    },
+    {
+        "traceId": "316",
+        "user": "tdelille",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 17:19:01",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1202",
+            "idParent": "1189"
+        }
+    },
+    {
+        "traceId": "317",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:19:10",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1190"
+        }
+    },
+    {
+        "traceId": "318",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:19:18",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1192"
+        }
+    },
+    {
+        "traceId": "319",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:19:27",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1202"
+        }
+    },
+    {
+        "traceId": "320",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:19:50",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1183"
+        }
+    },
+    {
+        "traceId": "321",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:20:16",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "322",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:21:48",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1187"
+        }
+    },
+    {
+        "traceId": "323",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:21:52",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1201"
+        }
+    },
+    {
+        "traceId": "324",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:22:07",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1188"
+        }
+    },
+    {
+        "traceId": "325",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:22:17",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1191"
+        }
+    },
+    {
+        "traceId": "326",
+        "user": "tdelille",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 17:26:22",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1203",
+            "idParent": "1191"
+        }
+    },
+    {
+        "traceId": "327",
+        "user": "tdelille",
+        "action": {
+            "type": "Citer un message",
+            "date": "2009-02-13 17:26:22",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1191"
+        }
+    },
+    {
+        "traceId": "328",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:26:53",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1189"
+        }
+    },
+    {
+        "traceId": "329",
+        "user": "tdelille",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 17:28:09",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1204",
+            "idParent": "1189"
+        }
+    },
+    {
+        "traceId": "330",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:28:24",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1190"
+        }
+    },
+    {
+        "traceId": "331",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:28:31",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1192"
+        }
+    },
+    {
+        "traceId": "332",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:28:34",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1190"
+        }
+    },
+    {
+        "traceId": "333",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:32:18",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1192"
+        }
+    },
+    {
+        "traceId": "334",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 17:32:54",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "335",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:33:00",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1192"
+        }
+    },
+    {
+        "traceId": "336",
+        "user": "tdelille",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 17:34:21",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1205",
+            "idParent": "1192"
+        }
+    },
+    {
+        "traceId": "337",
+        "user": "tdelille",
+        "action": {
+            "type": "Citer un message",
+            "date": "2009-02-13 17:34:21",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1192"
+        }
+    },
+    {
+        "traceId": "338",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 17:35:47",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "339",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 17:35:56",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "340",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:36:03",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "9",
+            "idMessage": "1197"
+        }
+    },
+    {
+        "traceId": "341",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:36:23",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "9",
+            "idMessage": "1198"
+        }
+    },
+    {
+        "traceId": "342",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 17:38:41",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "343",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 17:38:58",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1203"
+        }
+    },
+    {
+        "traceId": "344",
+        "user": "tdelille",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-13 18:09:59",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "345",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 18:10:06",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "346",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 18:10:35",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "347",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 18:11:57",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "348",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 18:12:04",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1201"
+        }
+    },
+    {
+        "traceId": "349",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 18:12:16",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1203"
+        }
+    },
+    {
+        "traceId": "350",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 18:12:44",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1202"
+        }
+    },
+    {
+        "traceId": "351",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 18:12:53",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1204"
+        }
+    },
+    {
+        "traceId": "352",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 18:13:01",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1205"
+        }
+    },
+    {
+        "traceId": "353",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 18:13:12",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1204"
+        }
+    },
+    {
+        "traceId": "354",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 18:13:17",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1202"
+        }
+    },
+    {
+        "traceId": "355",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 18:13:20",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1204"
+        }
+    },
+    {
+        "traceId": "356",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 18:14:40",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1206",
+            "idParent": "1204"
+        }
+    },
+    {
+        "traceId": "357",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 18:14:49",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1204"
+        }
+    },
+    {
+        "traceId": "358",
+        "user": "tdelille",
+        "action": {
+            "type": "Poster un nouveau message",
+            "date": "2009-02-13 18:17:34",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1207"
+        }
+    },
+    {
+        "traceId": "359",
+        "user": "tdelille",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-13 18:29:59",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "360",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-13 18:29:59",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "361",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-13 18:30:10",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1183"
+        }
+    },
+    {
+        "traceId": "362",
+        "user": "tdelille",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-13 18:32:18",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1208",
+            "idParent": "1183"
+        }
+    },
+    {
+        "traceId": "363",
+        "user": "tdelille",
+        "action": {
+            "type": "Citer un message",
+            "date": "2009-02-13 18:32:18",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1183"
+        }
+    },
+    {
+        "traceId": "292",
+        "user": "gachort",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-13 22:06:41",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1194"
+        }
+    },
+    {
+        "traceId": "293",
+        "user": "gachort",
+        "action": {
+            "type": "Bouger la scrollbar en bas - afficher la fin du message",
+            "date": "2009-02-13 22:07:06",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1194"
+        }
+    },
+    {
+        "traceId": "364",
+        "user": "gachort",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-14 01:45:54",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "365",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 01:45:57",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "366",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 01:46:07",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1201"
+        }
+    },
+    {
+        "traceId": "367",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 01:46:17",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1208"
+        }
+    },
+    {
+        "traceId": "368",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 01:46:59",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1203"
+        }
+    },
+    {
+        "traceId": "369",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 01:47:44",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1202"
+        }
+    },
+    {
+        "traceId": "370",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 01:47:50",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1189"
+        }
+    },
+    {
+        "traceId": "371",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 01:47:55",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1202"
+        }
+    },
+    {
+        "traceId": "372",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 01:48:01",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1204"
+        }
+    },
+    {
+        "traceId": "373",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 01:48:09",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1206"
+        }
+    },
+    {
+        "traceId": "374",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 01:48:16",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1205"
+        }
+    },
+    {
+        "traceId": "375",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 01:48:26",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1207"
+        }
+    },
+    {
+        "traceId": "376",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 01:48:50",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "377",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 01:49:08",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "378",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 01:49:16",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "9",
+            "idMessage": "1197"
+        }
+    },
+    {
+        "traceId": "379",
+        "user": "mmay",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-14 02:24:33",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "380",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 02:24:34",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "381",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 02:24:49",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1201"
+        }
+    },
+    {
+        "traceId": "382",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 02:24:53",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1208"
+        }
+    },
+    {
+        "traceId": "383",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 02:25:30",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1203"
+        }
+    },
+    {
+        "traceId": "384",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 02:25:50",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1202"
+        }
+    },
+    {
+        "traceId": "385",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 02:25:54",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1204"
+        }
+    },
+    {
+        "traceId": "386",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 02:26:01",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1206"
+        }
+    },
+    {
+        "traceId": "387",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 02:26:10",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1205"
+        }
+    },
+    {
+        "traceId": "388",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 02:26:22",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1207"
+        }
+    },
+    {
+        "traceId": "389",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 02:27:09",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "390",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 02:27:19",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "391",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 02:27:25",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1199"
+        }
+    },
+    {
+        "traceId": "392",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 02:27:40",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1200"
+        }
+    },
+    {
+        "traceId": "393",
+        "user": "mmay",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-14 02:29:00",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1209",
+            "idParent": "1200"
+        }
+    },
+    {
+        "traceId": "394",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 02:29:08",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "11"
+        }
+    },
+    {
+        "traceId": "395",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 02:29:17",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "396",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 02:29:21",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1207"
+        }
+    },
+    {
+        "traceId": "397",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 02:30:58",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "398",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 02:31:09",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1207"
+        }
+    },
+    {
+        "traceId": "399",
+        "user": "mmay",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-14 02:32:28",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1210",
+            "idParent": "1207"
+        }
+    },
+    {
+        "traceId": "400",
+        "user": "mmay",
+        "action": {
+            "type": "Citer un message",
+            "date": "2009-02-14 02:32:28",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1207"
+        }
+    },
+    {
+        "traceId": "401",
+        "user": "tdelille",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-14 02:34:31",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "402",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 02:34:31",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "403",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 02:34:41",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1206"
+        }
+    },
+    {
+        "traceId": "404",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 02:34:48",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1210"
+        }
+    },
+    {
+        "traceId": "405",
+        "user": "tdelille",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-14 02:35:56",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1211",
+            "idParent": "1210"
+        }
+    },
+    {
+        "traceId": "406",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 02:37:07",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1211"
+        }
+    },
+    {
+        "traceId": "407",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 02:37:13",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1210"
+        }
+    },
+    {
+        "traceId": "408",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 03:01:02",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "409",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 03:01:06",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1209"
+        }
+    },
+    {
+        "traceId": "410",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 03:59:49",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "411",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 03:59:56",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "9",
+            "idMessage": "1197"
+        }
+    },
+    {
+        "traceId": "412",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:00:19",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "9",
+            "idMessage": "1198"
+        }
+    },
+    {
+        "traceId": "413",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:00:27",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "9",
+            "idMessage": "1197"
+        }
+    },
+    {
+        "traceId": "414",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 04:00:45",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "415",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:00:52",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1208"
+        }
+    },
+    {
+        "traceId": "416",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:02:10",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1207"
+        }
+    },
+    {
+        "traceId": "417",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:02:27",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1210"
+        }
+    },
+    {
+        "traceId": "418",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:02:38",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1211"
+        }
+    },
+    {
+        "traceId": "419",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:02:54",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1210"
+        }
+    },
+    {
+        "traceId": "420",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:03:34",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1206"
+        }
+    },
+    {
+        "traceId": "421",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 04:05:55",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "422",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:06:04",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1208"
+        }
+    },
+    {
+        "traceId": "423",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 04:06:13",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "424",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 04:06:16",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "425",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 04:06:19",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "426",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:06:33",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1211"
+        }
+    },
+    {
+        "traceId": "427",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-14 04:13:19",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1212",
+            "idParent": "1211"
+        }
+    },
+    {
+        "traceId": "428",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:14:21",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1192"
+        }
+    },
+    {
+        "traceId": "429",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:14:30",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1206"
+        }
+    },
+    {
+        "traceId": "430",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:14:43",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1212"
+        }
+    },
+    {
+        "traceId": "431",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:21:07",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1191"
+        }
+    },
+    {
+        "traceId": "432",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:21:29",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1203"
+        }
+    },
+    {
+        "traceId": "433",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:21:57",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1202"
+        }
+    },
+    {
+        "traceId": "434",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:22:00",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1204"
+        }
+    },
+    {
+        "traceId": "435",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:22:05",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1206"
+        }
+    },
+    {
+        "traceId": "436",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:22:14",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1192"
+        }
+    },
+    {
+        "traceId": "437",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:22:20",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1207"
+        }
+    },
+    {
+        "traceId": "438",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 04:22:38",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1212"
+        }
+    },
+    {
+        "traceId": "439",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 06:52:08",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "440",
+        "user": "tdelille",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-14 07:26:38",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "441",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 07:26:39",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "442",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 07:26:49",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1212"
+        }
+    },
+    {
+        "traceId": "443",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 07:27:25",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "444",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 07:27:31",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1212"
+        }
+    },
+    {
+        "traceId": "445",
+        "user": "tdelille",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-14 07:28:39",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1213",
+            "idParent": "1212"
+        }
+    },
+    {
+        "traceId": "446",
+        "user": "tdelille",
+        "action": {
+            "type": "Citer un message",
+            "date": "2009-02-14 07:28:39",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1212"
+        }
+    },
+    {
+        "traceId": "447",
+        "user": "gachort",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-14 07:56:20",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "448",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 07:56:22",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "449",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 07:56:33",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1207"
+        }
+    },
+    {
+        "traceId": "450",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 07:56:40",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1210"
+        }
+    },
+    {
+        "traceId": "451",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 07:56:50",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1211"
+        }
+    },
+    {
+        "traceId": "452",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 07:56:57",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1212"
+        }
+    },
+    {
+        "traceId": "453",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 07:57:19",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1213"
+        }
+    },
+    {
+        "traceId": "454",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 07:57:30",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1212"
+        }
+    },
+    {
+        "traceId": "455",
+        "user": "gachort",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-14 07:59:07",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1214",
+            "idParent": "1212"
+        }
+    },
+    {
+        "traceId": "456",
+        "user": "gachort",
+        "action": {
+            "type": "Citer un message",
+            "date": "2009-02-14 07:59:07",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1212"
+        }
+    },
+    {
+        "traceId": "457",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 08:52:00",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "458",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 08:52:17",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "9",
+            "idMessage": "1198"
+        }
+    },
+    {
+        "traceId": "459",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 08:52:22",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "460",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 08:52:38",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "461",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 08:52:54",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "462",
+        "user": "tdelille",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-14 10:29:26",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "463",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 10:29:26",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "464",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 10:29:33",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1214"
+        }
+    },
+    {
+        "traceId": "465",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 10:30:15",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "466",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 10:30:43",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "467",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 10:30:50",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1209"
+        }
+    },
+    {
+        "traceId": "468",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 10:30:55",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1200"
+        }
+    },
+    {
+        "traceId": "469",
+        "user": "gachort",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-14 11:17:50",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "470",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 11:17:50",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "471",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 13:14:18",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "472",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 13:14:29",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1213"
+        }
+    },
+    {
+        "traceId": "473",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 13:14:40",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1214"
+        }
+    },
+    {
+        "traceId": "474",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-14 13:15:04",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1213"
+        }
+    },
+    {
+        "traceId": "475",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 15:53:57",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "476",
+        "user": "tdelille",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-14 16:06:20",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "477",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 16:06:21",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "478",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 16:16:02",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "479",
+        "user": "gachort",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-14 19:28:59",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "480",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-14 19:29:02",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "481",
+        "user": "gachort",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-15 08:49:19",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "482",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 08:49:20",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "483",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 08:49:54",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "484",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 09:22:48",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "485",
+        "user": "fdarriet",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-15 10:14:53",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "486",
+        "user": "fdarriet",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-15 10:15:15",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "487",
+        "user": "mmay",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-15 10:53:29",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "488",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 10:53:31",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "489",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 10:53:41",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1211"
+        }
+    },
+    {
+        "traceId": "490",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 10:53:51",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1212"
+        }
+    },
+    {
+        "traceId": "491",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 11:23:08",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "492",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-15 11:23:25",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1207"
+        }
+    },
+    {
+        "traceId": "505",
+        "user": "mmay",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-15 11:24:59",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1215",
+            "idParent": "1214"
+        }
+    },
+    {
+        "traceId": "506",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 11:25:14",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "507",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 11:25:28",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "508",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 11:25:33",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "11"
+        }
+    },
+    {
+        "traceId": "509",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-15 13:15:00",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "510",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 13:15:03",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "511",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:16:06",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "512",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:16:59",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1164"
+        }
+    },
+    {
+        "traceId": "513",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:17:27",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1166"
+        }
+    },
+    {
+        "traceId": "514",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:17:45",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "515",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:19:19",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1183"
+        }
+    },
+    {
+        "traceId": "516",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:19:49",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1166"
+        }
+    },
+    {
+        "traceId": "517",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:19:59",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1187"
+        }
+    },
+    {
+        "traceId": "518",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:20:14",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1201"
+        }
+    },
+    {
+        "traceId": "519",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:20:28",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1208"
+        }
+    },
+    {
+        "traceId": "520",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:20:40",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1188"
+        }
+    },
+    {
+        "traceId": "521",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:21:00",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1191"
+        }
+    },
+    {
+        "traceId": "522",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:21:08",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1189"
+        }
+    },
+    {
+        "traceId": "523",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:26:13",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1202"
+        }
+    },
+    {
+        "traceId": "524",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:26:25",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1204"
+        }
+    },
+    {
+        "traceId": "525",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:26:36",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1206"
+        }
+    },
+    {
+        "traceId": "526",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:26:45",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1190"
+        }
+    },
+    {
+        "traceId": "527",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:26:57",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1192"
+        }
+    },
+    {
+        "traceId": "528",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:27:07",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1205"
+        }
+    },
+    {
+        "traceId": "529",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:27:24",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1207"
+        }
+    },
+    {
+        "traceId": "530",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:27:49",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1210"
+        }
+    },
+    {
+        "traceId": "531",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:28:03",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1211"
+        }
+    },
+    {
+        "traceId": "532",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:28:15",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1212"
+        }
+    },
+    {
+        "traceId": "533",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:29:21",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1213"
+        }
+    },
+    {
+        "traceId": "534",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:29:34",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1214"
+        }
+    },
+    {
+        "traceId": "535",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:29:49",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1215"
+        }
+    },
+    {
+        "traceId": "536",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-15 13:30:22",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1215"
+        }
+    },
+    {
+        "traceId": "537",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-15 13:31:11",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "538",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-15 13:31:44",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1188"
+        }
+    },
+    {
+        "traceId": "539",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 13:32:38",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1207"
+        }
+    },
+    {
+        "traceId": "540",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-15 13:32:55",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1190"
+        }
+    },
+    {
+        "traceId": "545",
+        "user": "mwollenburger",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-15 13:41:49",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1216",
+            "idParent": "1205"
+        }
+    },
+    {
+        "traceId": "546",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-15 13:42:40",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1190"
+        }
+    },
+    {
+        "traceId": "547",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-15 13:43:06",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "567",
+        "user": "mwollenburger",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-15 13:45:20",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217",
+            "idParent": "1184"
+        }
+    },
+    {
+        "traceId": "568",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 14:17:24",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "569",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-15 14:18:06",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1188"
+        }
+    },
+    {
+        "traceId": "578",
+        "user": "mwollenburger",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-15 14:25:44",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1218",
+            "idParent": "1191"
+        }
+    },
+    {
+        "traceId": "579",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Upload un ficher avec le message",
+            "date": "2009-02-15 14:25:44",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1218"
+        }
+    },
+    {
+        "traceId": "580",
+        "user": "gachort",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-15 14:39:58",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "581",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 14:39:59",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "582",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 14:40:09",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "583",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 14:40:16",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1218"
+        }
+    },
+    {
+        "traceId": "584",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 14:40:32",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1216"
+        }
+    },
+    {
+        "traceId": "585",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 14:40:52",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1206"
+        }
+    },
+    {
+        "traceId": "586",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 14:40:56",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1204"
+        }
+    },
+    {
+        "traceId": "587",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 14:41:00",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1202"
+        }
+    },
+    {
+        "traceId": "588",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 14:41:06",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1189"
+        }
+    },
+    {
+        "traceId": "589",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 14:41:19",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1215"
+        }
+    },
+    {
+        "traceId": "590",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 14:41:23",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1214"
+        }
+    },
+    {
+        "traceId": "591",
+        "user": "gachort",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 14:41:31",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1215"
+        }
+    },
+    {
+        "traceId": "592",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 15:21:29",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "593",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 15:21:34",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1218"
+        }
+    },
+    {
+        "traceId": "594",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 15:23:43",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1216"
+        }
+    },
+    {
+        "traceId": "595",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 15:24:11",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "596",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-15 15:24:28",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1163"
+        }
+    },
+    {
+        "traceId": "629",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 15:30:04",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "9"
+        }
+    },
+    {
+        "traceId": "630",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 15:30:18",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "631",
+        "user": "mmay",
+        "action": {
+            "type": "Afficher le fil de discussion",
+            "date": "2009-02-15 15:30:27",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "10",
+            "idMessage": "1186"
+        }
+    },
+    {
+        "traceId": "632",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 15:30:50",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "633",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 15:30:53",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "634",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 15:31:04",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1215"
+        }
+    },
+    {
+        "traceId": "635",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 15:31:22",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1216"
+        }
+    },
+    {
+        "traceId": "636",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 15:31:54",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1189"
+        }
+    },
+    {
+        "traceId": "637",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 15:32:10",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1206"
+        }
+    },
+    {
+        "traceId": "638",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-15 15:33:32",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1219",
+            "idParent": "1206"
+        }
+    },
+    {
+        "traceId": "639",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "R\u00e9pondre \u00e0 un message",
+            "date": "2009-02-15 15:33:32",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "",
+            "idParent": "1206"
+        }
+    },
+    {
+        "traceId": "640",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 15:35:10",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1188"
+        }
+    },
+    {
+        "traceId": "641",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 15:35:16",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1218"
+        }
+    },
+    {
+        "traceId": "642",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Download un fichier dans le message",
+            "date": "2009-02-15 15:35:33",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1218"
+        }
+    },
+    {
+        "traceId": "643",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 15:35:54",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "644",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 15:36:08",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "645",
+        "user": "ddaniaupotter",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 15:36:27",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1220"
+        }
+    },
+    {
+        "traceId": "493",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 18:23:32",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1214"
+        }
+    },
+    {
+        "traceId": "494",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 18:23:33",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1214"
+        }
+    },
+    {
+        "traceId": "495",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 18:23:33",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1214"
+        }
+    },
+    {
+        "traceId": "496",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 18:23:34",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1214"
+        }
+    },
+    {
+        "traceId": "497",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 18:23:34",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1214"
+        }
+    },
+    {
+        "traceId": "498",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 18:23:35",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1214"
+        }
+    },
+    {
+        "traceId": "499",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 18:23:35",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1214"
+        }
+    },
+    {
+        "traceId": "500",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 18:23:36",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1214"
+        }
+    },
+    {
+        "traceId": "501",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 18:23:39",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1214"
+        }
+    },
+    {
+        "traceId": "502",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 18:23:43",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1214"
+        }
+    },
+    {
+        "traceId": "503",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 18:23:43",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1214"
+        }
+    },
+    {
+        "traceId": "504",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas - afficher la fin du message",
+            "date": "2009-02-15 18:24:11",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1214"
+        }
+    },
+    {
+        "traceId": "541",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:32:57",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1205"
+        }
+    },
+    {
+        "traceId": "542",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:32:58",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1205"
+        }
+    },
+    {
+        "traceId": "543",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:33:09",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1205"
+        }
+    },
+    {
+        "traceId": "544",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas - afficher la fin du message",
+            "date": "2009-02-15 20:33:37",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1205"
+        }
+    },
+    {
+        "traceId": "548",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:07",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "549",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:11",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "550",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:12",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "551",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:13",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "552",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:14",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "553",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:15",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "554",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:19",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "555",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:20",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "556",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:21",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "557",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:22",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "558",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:23",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "559",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:23",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "560",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:24",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "561",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:27",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "562",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:27",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "563",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:28",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "564",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:29",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "565",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 20:43:32",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "566",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas - afficher la fin du message",
+            "date": "2009-02-15 20:43:40",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1184"
+        }
+    },
+    {
+        "traceId": "570",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 21:18:07",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1191"
+        }
+    },
+    {
+        "traceId": "571",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 21:18:07",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1191"
+        }
+    },
+    {
+        "traceId": "572",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 21:18:08",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1191"
+        }
+    },
+    {
+        "traceId": "573",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 21:18:08",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1191"
+        }
+    },
+    {
+        "traceId": "574",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 21:18:09",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1191"
+        }
+    },
+    {
+        "traceId": "575",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 21:18:10",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1191"
+        }
+    },
+    {
+        "traceId": "576",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 21:18:10",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1191"
+        }
+    },
+    {
+        "traceId": "577",
+        "user": "mwollenburger",
+        "action": {
+            "type": "Bouger la scrollbar en bas - afficher la fin du message",
+            "date": "2009-02-15 21:19:35",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1191"
+        }
+    },
+    {
+        "traceId": "597",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:37",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "598",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:37",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "599",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:38",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "600",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:39",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "601",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:40",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "602",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:42",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "603",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:50",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "604",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:51",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "605",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:52",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "606",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:54",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "607",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:54",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "608",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:55",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "609",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:55",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "610",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:56",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "611",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:56",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "612",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:58",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "613",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:58",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "614",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:24:59",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "615",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:25:12",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "616",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:25:12",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "617",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:25:13",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "618",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:25:13",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "619",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:25:15",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "620",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:25:15",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "621",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:25:20",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "622",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:25:21",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "623",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:25:21",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "624",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:25:23",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "625",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:25:23",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "626",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:25:26",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "627",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas",
+            "date": "2009-02-15 22:25:27",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "628",
+        "user": "mmay",
+        "action": {
+            "type": "Bouger la scrollbar en bas - afficher la fin du message",
+            "date": "2009-02-15 22:26:01",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1217"
+        }
+    },
+    {
+        "traceId": "646",
+        "user": "tdelille",
+        "action": {
+            "type": "Connexion",
+            "date": "2009-02-15 22:36:53",
+            "categorie": "Communication privee"
+        },
+        "trace": []
+    },
+    {
+        "traceId": "647",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 22:36:54",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "7"
+        }
+    },
+    {
+        "traceId": "648",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 22:37:08",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1215"
+        }
+    },
+    {
+        "traceId": "649",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 22:37:20",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1216"
+        }
+    },
+    {
+        "traceId": "650",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 22:37:41",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1220"
+        }
+    },
+    {
+        "traceId": "651",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher le contenu d'un message",
+            "date": "2009-02-15 22:37:51",
+            "categorie": "Operation sur les messages de communication"
+        },
+        "trace": {
+            "idForum": "7",
+            "idMessage": "1219"
+        }
+    },
+    {
+        "traceId": "652",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 22:38:07",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "10"
+        }
+    },
+    {
+        "traceId": "653",
+        "user": "tdelille",
+        "action": {
+            "type": "Afficher une structure (cours\/forum)",
+            "date": "2009-02-15 22:38:11",
+            "categorie": "Parcours du forum"
+        },
+        "trace": {
+            "idForum": "11"
+        }
+    }
+]
