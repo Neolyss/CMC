@@ -6,11 +6,17 @@
 
     echo "<form action='genericModel.php' method='post'>
           <input type='submit' name='submit' value='GENERATE JSON'/>
+          <input type='submit' name='reset' value='RESET JSON'/>
     </form>";
+
+    $dir = glob(SITE_ROOT."/traces/*");
+    foreach($dir as $fileinfo){
+        echo "<div>Trace $fileinfo</div>";
+    }
 
     if(isset($_POST["submit"])) { // If the button is clicked
         // Generate
-        $transitions_request = "SELECT * FROM `transition` ORDER BY Date, Heure;";
+        $transitions_request = "SELECT * FROM `transition` ORDER BY transition.Date, transition.Heure;";
 
         $stmt = $db->prepare($transitions_request);
         $stmt->execute();
@@ -42,28 +48,45 @@
 
         $firstRow = $stmt->fetch();
         $firstDate = new DateTime($firstRow["Date"]);
-        $currentWeek = (int)$firstDate->format("W");
-        $currentYear = (int)$firstDate->format("Y");
+        $currentWeek = $firstDate->format("W");
+        $currentYear = $firstDate->format("Y");
 
         $i=0;
         foreach ($stmt as $row) {
+            //var_dump($row["Date"]);
             $date = new DateTime($row["Date"]);
-            $week = (int)$date->format("W");
-            $year = (int)$date->format("Y");
-            if($year > $currentYear) { // If year is changing
-                $currentYear = $year;
+            $week = $date->format("W");
+            $year = $date->format("Y");
+            var_dump($row["Date"] . " " . $week);
+            if((int)$year > (int)$currentYear) { // If year is changing
                 createFile($currentYear, $currentWeek, $temp_array_week);
+                $temp_array_week = array();
+                $currentYear = $year; // change year
+                var_dump("NEXT YEAR");
             } else { // Same year
-                if($week > $currentWeek) { // If week is changing
-                    $currentWeek = $week;
+                if((int)$week > (int)$currentWeek) { // If week is changing
                     createFile($currentYear, $currentWeek, $temp_array_week);
-                } else { // Same week
-                    $temp_array_week[] = createTrace($row, $categories);
+                    $temp_array_week = array();
+                    $currentWeek = $week; // change week
+                    var_dump("NEXT WEEK");
                 }
             }
+            // Same week
+            $temp_array_week[] = createTrace($row, $categories);
             $i++;
+            unset($_POST["submit"]);
         }
-        var_dump($i);
+        createFile($currentYear, $currentWeek, $temp_array_week);
+        $temp_array_week = array();
+        //var_dump($i);
+    }
+
+    if(isset($_POST["reset"])) {
+        $dir = glob(SITE_ROOT."/traces/*");
+        foreach($dir as $fileinfo){
+            unlink($fileinfo);
+        }
+        unset($_POST["reset"]);
     }
 
     function createTrace($row, $categories): array
@@ -74,7 +97,7 @@
         $action = array();
         $action["type"] = $row["Titre"];
         $action["date"] = $row["Date"] . " " . $row["Heure"];
-        $action["categorie"] = $categories[$row["Titre"]];
+        $action["category"] = $categories[$row["Titre"]];
         $traceObject["action"] = $action;
         $trace = array();
         $split = explode(",",$row["Attribut"]);

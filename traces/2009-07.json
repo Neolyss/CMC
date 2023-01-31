@@ -5,7 +5,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 11:33:58",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -17,7 +17,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 11:36:33",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -29,7 +29,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 12:00:32",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -41,7 +41,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 12:02:49",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -53,7 +53,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 12:03:07",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -65,7 +65,7 @@
         "action": {
             "type": "Poster un nouveau message",
             "date": "2009-02-12 12:08:32",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -78,7 +78,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-12 12:16:59",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -88,7 +88,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 12:16:59",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -100,7 +100,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 12:17:21",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "11"
@@ -112,7 +112,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 12:17:24",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -124,7 +124,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 12:18:12",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -136,7 +136,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 12:18:19",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -148,7 +148,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 12:18:44",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -160,7 +160,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-12 12:47:28",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -170,7 +170,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 12:47:28",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -182,7 +182,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-12 12:47:56",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -195,7 +195,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-12 12:59:12",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -209,7 +209,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-12 12:59:19",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -222,7 +222,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-12 12:59:24",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -235,7 +235,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-12 13:01:19",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -248,7 +248,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 13:02:14",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -260,7 +260,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 13:47:17",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -272,7 +272,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-12 14:31:13",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -282,7 +282,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 14:31:14",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -294,7 +294,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-12 14:31:17",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -307,7 +307,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-12 14:39:15",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -321,7 +321,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 15:51:57",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -333,7 +333,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-12 15:52:04",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -346,7 +346,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-12 15:52:34",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -359,7 +359,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-12 15:52:58",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -372,7 +372,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 15:53:44",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -384,7 +384,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 15:54:02",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -396,7 +396,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 15:54:25",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -408,7 +408,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-12 15:54:36",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -421,7 +421,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-12 15:55:39",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -431,7 +431,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 15:55:39",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -443,7 +443,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 15:55:50",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -455,7 +455,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-12 15:56:04",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -468,7 +468,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-12 16:00:05",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -482,7 +482,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-12 16:14:23",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -492,7 +492,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 16:14:23",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -504,7 +504,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-12 16:14:26",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -517,7 +517,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-12 16:14:56",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -530,7 +530,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-12 16:15:32",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -542,7 +542,7 @@
         "action": {
             "type": "Poster un nouveau message",
             "date": "2009-02-12 16:20:40",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -555,7 +555,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 02:45:03",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -567,7 +567,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-13 02:45:03",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -577,7 +577,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 02:45:15",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -590,7 +590,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 02:45:31",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -603,7 +603,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 02:45:50",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -616,7 +616,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 02:46:02",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -629,7 +629,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 02:51:54",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -643,7 +643,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 02:52:16",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -655,7 +655,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 02:52:46",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -667,7 +667,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 02:52:50",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -680,7 +680,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 02:53:08",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "11"
@@ -692,7 +692,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 02:54:42",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -704,7 +704,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-13 03:08:25",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -714,7 +714,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 03:08:25",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -726,7 +726,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 03:08:36",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -738,7 +738,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-13 03:08:53",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -751,7 +751,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-13 03:09:10",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -761,7 +761,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 03:09:11",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -773,7 +773,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-13 03:10:40",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -783,7 +783,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 03:10:41",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -795,7 +795,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 03:10:46",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -807,7 +807,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 03:10:55",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -819,7 +819,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 03:11:05",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -831,7 +831,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 03:11:09",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "11"
@@ -843,7 +843,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 03:11:16",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -855,7 +855,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-13 03:11:18",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -868,7 +868,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-13 03:27:36",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -878,7 +878,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 03:27:36",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -890,7 +890,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-13 03:27:42",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -903,7 +903,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-13 03:27:50",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -916,7 +916,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-13 03:30:09",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -929,7 +929,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-13 03:30:13",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -942,7 +942,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 03:40:13",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -956,7 +956,7 @@
         "action": {
             "type": "Citer un message",
             "date": "2009-02-13 03:40:13",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -969,7 +969,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-13 03:40:20",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -982,7 +982,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 03:41:42",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -994,7 +994,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 03:41:45",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -1007,7 +1007,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 03:45:00",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -1019,7 +1019,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-13 03:45:00",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -1029,7 +1029,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 03:52:08",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -1043,7 +1043,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-13 03:54:02",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -1056,7 +1056,7 @@
         "action": {
             "type": "Poster un nouveau message",
             "date": "2009-02-13 03:56:43",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -1069,7 +1069,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 03:56:54",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "11"
@@ -1081,7 +1081,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 03:59:03",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -1093,7 +1093,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-13 03:59:07",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1106,7 +1106,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-13 05:43:52",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -1116,7 +1116,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 05:43:54",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -1128,7 +1128,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 05:44:00",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1141,7 +1141,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 05:44:17",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1154,7 +1154,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 05:47:55",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1168,7 +1168,7 @@
         "action": {
             "type": "Poster un nouveau message",
             "date": "2009-02-13 05:48:51",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1181,7 +1181,7 @@
         "action": {
             "type": "Poster un nouveau message",
             "date": "2009-02-13 05:51:19",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1194,7 +1194,7 @@
         "action": {
             "type": "Poster un nouveau message",
             "date": "2009-02-13 05:52:16",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1207,7 +1207,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 05:54:52",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1220,7 +1220,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 05:56:30",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1234,7 +1234,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-13 06:18:40",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -1244,7 +1244,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 06:18:41",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -1256,7 +1256,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 06:18:50",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -1269,7 +1269,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-13 06:19:10",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -1279,7 +1279,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 06:19:10",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -1291,7 +1291,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 06:19:13",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -1304,7 +1304,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 06:19:35",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -1316,7 +1316,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 06:19:47",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1329,7 +1329,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-13 06:20:02",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1342,7 +1342,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 06:20:20",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1355,7 +1355,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 06:20:30",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1368,7 +1368,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 06:20:40",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1381,7 +1381,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 06:20:50",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1394,7 +1394,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 06:20:56",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -1406,7 +1406,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-13 07:06:56",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -1416,7 +1416,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 07:06:58",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -1428,7 +1428,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 07:07:10",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1441,7 +1441,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 07:07:48",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1454,7 +1454,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 07:07:58",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1467,7 +1467,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 07:08:01",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1480,7 +1480,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 07:08:11",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1493,7 +1493,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 07:12:19",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1506,7 +1506,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 07:12:30",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1519,7 +1519,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 07:13:58",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1533,7 +1533,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 07:14:12",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -1545,7 +1545,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 07:14:25",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -1557,7 +1557,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 07:14:29",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -1570,7 +1570,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 07:14:55",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -1583,7 +1583,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 07:17:51",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -1596,7 +1596,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 07:17:55",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -1609,7 +1609,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 07:18:56",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -1623,7 +1623,7 @@
         "action": {
             "type": "Citer un message",
             "date": "2009-02-13 07:18:56",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -1636,7 +1636,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 07:21:05",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -1648,7 +1648,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 07:21:09",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1661,7 +1661,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 08:29:49",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -1673,7 +1673,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 08:29:54",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1686,7 +1686,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 08:30:04",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -1698,7 +1698,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 08:30:13",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -1710,7 +1710,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 08:30:16",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -1723,7 +1723,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 08:38:18",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -1737,7 +1737,7 @@
         "action": {
             "type": "Citer un message",
             "date": "2009-02-13 08:38:18",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -1750,7 +1750,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 08:39:12",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "11"
@@ -1762,7 +1762,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 08:39:17",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -1774,7 +1774,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 08:39:29",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -1786,7 +1786,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 08:39:36",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1799,7 +1799,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-13 10:24:04",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -1809,7 +1809,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 10:24:05",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -1821,7 +1821,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 10:24:18",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1834,7 +1834,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 10:24:30",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1847,7 +1847,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 10:24:44",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1860,7 +1860,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 10:24:51",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1873,7 +1873,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 10:25:00",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -1886,7 +1886,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 10:25:11",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -1898,7 +1898,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 10:25:21",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -1910,7 +1910,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 10:25:38",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -1922,7 +1922,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 10:32:02",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -1934,7 +1934,7 @@
         "action": {
             "type": "Poster un nouveau message",
             "date": "2009-02-13 10:36:19",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "9",
@@ -1947,7 +1947,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-13 10:42:16",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10",
@@ -1960,7 +1960,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas - afficher la fin du message",
             "date": "2009-02-13 10:42:23",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10",
@@ -1973,7 +1973,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 10:49:41",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -1985,7 +1985,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 10:49:44",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "9",
@@ -1998,7 +1998,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 10:50:55",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "9",
@@ -2012,7 +2012,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-13 10:53:49",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -2022,7 +2022,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 10:53:49",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -2034,7 +2034,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 10:54:01",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -2046,7 +2046,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 10:54:06",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "9",
@@ -2059,7 +2059,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-13 10:54:12",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "9",
@@ -2072,7 +2072,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 10:55:37",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -2084,7 +2084,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 10:55:47",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -2096,7 +2096,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 10:55:54",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "11"
@@ -2108,7 +2108,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-13 11:44:27",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -2121,7 +2121,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-13 11:44:28",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -2134,7 +2134,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-13 11:44:29",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -2147,7 +2147,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-13 11:44:29",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -2160,7 +2160,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-13 11:44:30",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -2173,7 +2173,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-13 11:44:31",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -2186,7 +2186,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-13 11:44:37",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -2199,7 +2199,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas - afficher la fin du message",
             "date": "2009-02-13 11:44:59",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -2212,7 +2212,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-13 13:42:03",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -2222,7 +2222,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 13:42:05",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -2234,7 +2234,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 13:42:22",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2247,7 +2247,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 13:42:35",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2260,7 +2260,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 13:42:41",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2273,7 +2273,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 13:42:45",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -2285,7 +2285,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 13:42:46",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -2297,7 +2297,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-13 14:21:40",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -2307,7 +2307,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 14:21:42",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -2319,7 +2319,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 14:22:03",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -2331,7 +2331,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 15:04:41",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -2343,7 +2343,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 15:05:26",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -2355,7 +2355,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 15:05:33",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -2368,7 +2368,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 15:05:47",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -2381,7 +2381,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 15:09:50",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -2395,7 +2395,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 15:10:00",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "11"
@@ -2407,7 +2407,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 15:10:08",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -2419,7 +2419,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 15:10:14",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -2432,7 +2432,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 15:10:16",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -2445,7 +2445,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-13 17:12:40",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -2455,7 +2455,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 17:12:42",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -2467,7 +2467,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:12:50",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -2480,7 +2480,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:13:18",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -2493,7 +2493,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:13:25",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -2506,7 +2506,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:13:34",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -2519,7 +2519,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:13:47",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -2532,7 +2532,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:13:56",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -2545,7 +2545,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 17:15:21",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -2559,7 +2559,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 17:15:35",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -2571,7 +2571,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:15:46",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2584,7 +2584,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 17:16:44",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2598,7 +2598,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:16:51",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2611,7 +2611,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:17:55",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2624,7 +2624,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:18:12",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2637,7 +2637,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:18:21",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2650,7 +2650,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:18:28",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2663,7 +2663,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 17:19:01",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2677,7 +2677,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:19:10",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2690,7 +2690,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:19:18",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2703,7 +2703,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:19:27",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2716,7 +2716,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:19:50",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2729,7 +2729,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:20:16",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2742,7 +2742,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:21:48",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2755,7 +2755,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:21:52",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2768,7 +2768,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:22:07",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2781,7 +2781,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:22:17",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2794,7 +2794,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 17:26:22",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2808,7 +2808,7 @@
         "action": {
             "type": "Citer un message",
             "date": "2009-02-13 17:26:22",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2821,7 +2821,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:26:53",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2834,7 +2834,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 17:28:09",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2848,7 +2848,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:28:24",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2861,7 +2861,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:28:31",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2874,7 +2874,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:28:34",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2887,7 +2887,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:32:18",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2900,7 +2900,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 17:32:54",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -2912,7 +2912,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:33:00",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2925,7 +2925,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 17:34:21",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2939,7 +2939,7 @@
         "action": {
             "type": "Citer un message",
             "date": "2009-02-13 17:34:21",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -2952,7 +2952,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 17:35:47",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -2964,7 +2964,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 17:35:56",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -2976,7 +2976,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:36:03",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "9",
@@ -2989,7 +2989,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:36:23",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "9",
@@ -3002,7 +3002,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 17:38:41",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -3014,7 +3014,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 17:38:58",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3027,7 +3027,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-13 18:09:59",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -3037,7 +3037,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 18:10:06",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -3049,7 +3049,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 18:10:35",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -3061,7 +3061,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 18:11:57",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -3073,7 +3073,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 18:12:04",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3086,7 +3086,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 18:12:16",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3099,7 +3099,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 18:12:44",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3112,7 +3112,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 18:12:53",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3125,7 +3125,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 18:13:01",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3138,7 +3138,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 18:13:12",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3151,7 +3151,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 18:13:17",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3164,7 +3164,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 18:13:20",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3177,7 +3177,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 18:14:40",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3191,7 +3191,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 18:14:49",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3204,7 +3204,7 @@
         "action": {
             "type": "Poster un nouveau message",
             "date": "2009-02-13 18:17:34",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3217,7 +3217,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-13 18:29:59",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -3227,7 +3227,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-13 18:29:59",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -3239,7 +3239,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-13 18:30:10",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3252,7 +3252,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-13 18:32:18",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3266,7 +3266,7 @@
         "action": {
             "type": "Citer un message",
             "date": "2009-02-13 18:32:18",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3279,7 +3279,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-13 22:06:41",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10",
@@ -3292,7 +3292,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas - afficher la fin du message",
             "date": "2009-02-13 22:07:06",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10",
@@ -3305,7 +3305,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-14 01:45:54",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -3315,7 +3315,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 01:45:57",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -3327,7 +3327,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 01:46:07",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3340,7 +3340,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 01:46:17",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3353,7 +3353,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 01:46:59",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3366,7 +3366,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 01:47:44",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3379,7 +3379,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 01:47:50",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3392,7 +3392,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 01:47:55",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3405,7 +3405,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 01:48:01",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3418,7 +3418,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 01:48:09",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3431,7 +3431,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 01:48:16",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3444,7 +3444,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 01:48:26",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3457,7 +3457,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 01:48:50",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -3469,7 +3469,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 01:49:08",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -3481,7 +3481,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 01:49:16",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "9",
@@ -3494,7 +3494,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-14 02:24:33",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -3504,7 +3504,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 02:24:34",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -3516,7 +3516,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 02:24:49",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3529,7 +3529,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 02:24:53",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3542,7 +3542,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 02:25:30",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3555,7 +3555,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 02:25:50",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3568,7 +3568,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 02:25:54",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3581,7 +3581,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 02:26:01",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3594,7 +3594,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 02:26:10",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3607,7 +3607,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 02:26:22",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3620,7 +3620,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 02:27:09",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -3632,7 +3632,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 02:27:19",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -3644,7 +3644,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 02:27:25",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -3657,7 +3657,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 02:27:40",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -3670,7 +3670,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-14 02:29:00",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -3684,7 +3684,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 02:29:08",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "11"
@@ -3696,7 +3696,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 02:29:17",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -3708,7 +3708,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 02:29:21",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3721,7 +3721,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 02:30:58",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3734,7 +3734,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 02:31:09",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3747,7 +3747,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-14 02:32:28",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3761,7 +3761,7 @@
         "action": {
             "type": "Citer un message",
             "date": "2009-02-14 02:32:28",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3774,7 +3774,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-14 02:34:31",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -3784,7 +3784,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 02:34:31",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -3796,7 +3796,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 02:34:41",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3809,7 +3809,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 02:34:48",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3822,7 +3822,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-14 02:35:56",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3836,7 +3836,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 02:37:07",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3849,7 +3849,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 02:37:13",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3862,7 +3862,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 03:01:02",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -3874,7 +3874,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 03:01:06",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -3887,7 +3887,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 03:59:49",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -3899,7 +3899,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 03:59:56",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "9",
@@ -3912,7 +3912,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:00:19",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "9",
@@ -3925,7 +3925,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:00:27",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "9",
@@ -3938,7 +3938,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 04:00:45",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -3950,7 +3950,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:00:52",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3963,7 +3963,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:02:10",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3976,7 +3976,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:02:27",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -3989,7 +3989,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:02:38",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4002,7 +4002,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:02:54",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4015,7 +4015,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:03:34",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4028,7 +4028,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 04:05:55",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4040,7 +4040,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:06:04",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4053,7 +4053,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 04:06:13",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4065,7 +4065,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 04:06:16",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4077,7 +4077,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 04:06:19",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4089,7 +4089,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:06:33",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4102,7 +4102,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-14 04:13:19",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4116,7 +4116,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:14:21",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4129,7 +4129,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:14:30",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4142,7 +4142,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:14:43",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4155,7 +4155,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:21:07",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4168,7 +4168,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:21:29",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4181,7 +4181,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:21:57",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4194,7 +4194,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:22:00",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4207,7 +4207,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:22:05",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4220,7 +4220,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:22:14",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4233,7 +4233,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:22:20",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4246,7 +4246,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 04:22:38",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4259,7 +4259,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 06:52:08",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4271,7 +4271,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-14 07:26:38",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -4281,7 +4281,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 07:26:39",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4293,7 +4293,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 07:26:49",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4306,7 +4306,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 07:27:25",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4318,7 +4318,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 07:27:31",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4331,7 +4331,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-14 07:28:39",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4345,7 +4345,7 @@
         "action": {
             "type": "Citer un message",
             "date": "2009-02-14 07:28:39",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4358,7 +4358,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-14 07:56:20",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -4368,7 +4368,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 07:56:22",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4380,7 +4380,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 07:56:33",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4393,7 +4393,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 07:56:40",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4406,7 +4406,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 07:56:50",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4419,7 +4419,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 07:56:57",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4432,7 +4432,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 07:57:19",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4445,7 +4445,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 07:57:30",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4458,7 +4458,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-14 07:59:07",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4472,7 +4472,7 @@
         "action": {
             "type": "Citer un message",
             "date": "2009-02-14 07:59:07",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4485,7 +4485,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 08:52:00",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -4497,7 +4497,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 08:52:17",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "9",
@@ -4510,7 +4510,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 08:52:22",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -4522,7 +4522,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 08:52:38",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4534,7 +4534,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 08:52:54",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4546,7 +4546,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-14 10:29:26",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -4556,7 +4556,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 10:29:26",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4568,7 +4568,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 10:29:33",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4581,7 +4581,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 10:30:15",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4593,7 +4593,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 10:30:43",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -4605,7 +4605,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 10:30:50",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -4618,7 +4618,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 10:30:55",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -4631,7 +4631,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-14 11:17:50",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -4641,7 +4641,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 11:17:50",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4653,7 +4653,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 13:14:18",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4665,7 +4665,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 13:14:29",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4678,7 +4678,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 13:14:40",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4691,7 +4691,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-14 13:15:04",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4704,7 +4704,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 15:53:57",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4716,7 +4716,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-14 16:06:20",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -4726,7 +4726,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 16:06:21",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4738,7 +4738,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 16:16:02",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4750,7 +4750,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-14 19:28:59",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -4760,7 +4760,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-14 19:29:02",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4772,7 +4772,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-15 08:49:19",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -4782,7 +4782,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 08:49:20",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4794,7 +4794,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 08:49:54",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -4806,7 +4806,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 09:22:48",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4818,7 +4818,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-15 10:14:53",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -4828,7 +4828,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-15 10:15:15",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -4838,7 +4838,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-15 10:53:29",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -4848,7 +4848,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 10:53:31",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4860,7 +4860,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 10:53:41",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4873,7 +4873,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 10:53:51",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4886,7 +4886,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 11:23:08",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4898,7 +4898,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-15 11:23:25",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4911,7 +4911,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-15 11:24:59",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4925,7 +4925,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 11:25:14",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -4937,7 +4937,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 11:25:28",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -4949,7 +4949,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 11:25:33",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "11"
@@ -4961,7 +4961,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-15 13:15:00",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -4971,7 +4971,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 13:15:03",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -4983,7 +4983,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:16:06",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -4996,7 +4996,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:16:59",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5009,7 +5009,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:17:27",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5022,7 +5022,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:17:45",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5035,7 +5035,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:19:19",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5048,7 +5048,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:19:49",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5061,7 +5061,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:19:59",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5074,7 +5074,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:20:14",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5087,7 +5087,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:20:28",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5100,7 +5100,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:20:40",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5113,7 +5113,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:21:00",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5126,7 +5126,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:21:08",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5139,7 +5139,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:26:13",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5152,7 +5152,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:26:25",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5165,7 +5165,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:26:36",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5178,7 +5178,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:26:45",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5191,7 +5191,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:26:57",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5204,7 +5204,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:27:07",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5217,7 +5217,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:27:24",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5230,7 +5230,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:27:49",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5243,7 +5243,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:28:03",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5256,7 +5256,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:28:15",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5269,7 +5269,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:29:21",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5282,7 +5282,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:29:34",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5295,7 +5295,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:29:49",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5308,7 +5308,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-15 13:30:22",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5321,7 +5321,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-15 13:31:11",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5334,7 +5334,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-15 13:31:44",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5347,7 +5347,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 13:32:38",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5360,7 +5360,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-15 13:32:55",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5373,7 +5373,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-15 13:41:49",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5387,7 +5387,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-15 13:42:40",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5400,7 +5400,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-15 13:43:06",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5413,7 +5413,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-15 13:45:20",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5427,7 +5427,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 14:17:24",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -5439,7 +5439,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-15 14:18:06",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5452,7 +5452,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-15 14:25:44",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5466,7 +5466,7 @@
         "action": {
             "type": "Upload un ficher avec le message",
             "date": "2009-02-15 14:25:44",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5479,7 +5479,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-15 14:39:58",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -5489,7 +5489,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 14:39:59",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -5501,7 +5501,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 14:40:09",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5514,7 +5514,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 14:40:16",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5527,7 +5527,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 14:40:32",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5540,7 +5540,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 14:40:52",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5553,7 +5553,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 14:40:56",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5566,7 +5566,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 14:41:00",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5579,7 +5579,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 14:41:06",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5592,7 +5592,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 14:41:19",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5605,7 +5605,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 14:41:23",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5618,7 +5618,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 14:41:31",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5631,7 +5631,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 15:21:29",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -5643,7 +5643,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 15:21:34",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5656,7 +5656,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 15:23:43",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5669,7 +5669,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 15:24:11",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5682,7 +5682,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-15 15:24:28",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5695,7 +5695,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 15:30:04",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "9"
@@ -5707,7 +5707,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 15:30:18",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -5719,7 +5719,7 @@
         "action": {
             "type": "Afficher le fil de discussion",
             "date": "2009-02-15 15:30:27",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "10",
@@ -5732,7 +5732,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 15:30:50",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -5744,7 +5744,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 15:30:53",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -5756,7 +5756,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 15:31:04",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5769,7 +5769,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 15:31:22",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5782,7 +5782,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 15:31:54",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5795,7 +5795,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 15:32:10",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5808,7 +5808,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-15 15:33:32",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5822,7 +5822,7 @@
         "action": {
             "type": "R\u00e9pondre \u00e0 un message",
             "date": "2009-02-15 15:33:32",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5836,7 +5836,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 15:35:10",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5849,7 +5849,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 15:35:16",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5862,7 +5862,7 @@
         "action": {
             "type": "Download un fichier dans le message",
             "date": "2009-02-15 15:35:33",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5875,7 +5875,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 15:35:54",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -5887,7 +5887,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 15:36:08",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5900,7 +5900,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 15:36:27",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -5913,7 +5913,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 18:23:32",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -5926,7 +5926,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 18:23:33",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -5939,7 +5939,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 18:23:33",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -5952,7 +5952,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 18:23:34",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -5965,7 +5965,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 18:23:34",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -5978,7 +5978,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 18:23:35",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -5991,7 +5991,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 18:23:35",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6004,7 +6004,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 18:23:36",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6017,7 +6017,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 18:23:39",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6030,7 +6030,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 18:23:43",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6043,7 +6043,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 18:23:43",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6056,7 +6056,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas - afficher la fin du message",
             "date": "2009-02-15 18:24:11",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6069,7 +6069,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:32:57",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6082,7 +6082,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:32:58",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6095,7 +6095,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:33:09",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6108,7 +6108,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas - afficher la fin du message",
             "date": "2009-02-15 20:33:37",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6121,7 +6121,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:07",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6134,7 +6134,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:11",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6147,7 +6147,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:12",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6160,7 +6160,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:13",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6173,7 +6173,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:14",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6186,7 +6186,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:15",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6199,7 +6199,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:19",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6212,7 +6212,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:20",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6225,7 +6225,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:21",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6238,7 +6238,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:22",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6251,7 +6251,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:23",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6264,7 +6264,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:23",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6277,7 +6277,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:24",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6290,7 +6290,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:27",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6303,7 +6303,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:27",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6316,7 +6316,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:28",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6329,7 +6329,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:29",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6342,7 +6342,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 20:43:32",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6355,7 +6355,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas - afficher la fin du message",
             "date": "2009-02-15 20:43:40",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6368,7 +6368,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 21:18:07",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6381,7 +6381,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 21:18:07",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6394,7 +6394,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 21:18:08",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6407,7 +6407,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 21:18:08",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6420,7 +6420,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 21:18:09",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6433,7 +6433,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 21:18:10",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6446,7 +6446,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 21:18:10",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6459,7 +6459,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas - afficher la fin du message",
             "date": "2009-02-15 21:19:35",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6472,7 +6472,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:37",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6485,7 +6485,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:37",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6498,7 +6498,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:38",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6511,7 +6511,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:39",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6524,7 +6524,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:40",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6537,7 +6537,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:42",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6550,7 +6550,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:50",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6563,7 +6563,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:51",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6576,7 +6576,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:52",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6589,7 +6589,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:54",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6602,7 +6602,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:54",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6615,7 +6615,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:55",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6628,7 +6628,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:55",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6641,7 +6641,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:56",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6654,7 +6654,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:56",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6667,7 +6667,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:58",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6680,7 +6680,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:58",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6693,7 +6693,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:24:59",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6706,7 +6706,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:25:12",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6719,7 +6719,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:25:12",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6732,7 +6732,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:25:13",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6745,7 +6745,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:25:13",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6758,7 +6758,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:25:15",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6771,7 +6771,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:25:15",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6784,7 +6784,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:25:20",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6797,7 +6797,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:25:21",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6810,7 +6810,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:25:21",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6823,7 +6823,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:25:23",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6836,7 +6836,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:25:23",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6849,7 +6849,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:25:26",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6862,7 +6862,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas",
             "date": "2009-02-15 22:25:27",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6875,7 +6875,7 @@
         "action": {
             "type": "Bouger la scrollbar en bas - afficher la fin du message",
             "date": "2009-02-15 22:26:01",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7",
@@ -6888,7 +6888,7 @@
         "action": {
             "type": "Connexion",
             "date": "2009-02-15 22:36:53",
-            "categorie": "Communication privee"
+            "category": "Communication privee"
         },
         "trace": []
     },
@@ -6898,7 +6898,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 22:36:54",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "7"
@@ -6910,7 +6910,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 22:37:08",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -6923,7 +6923,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 22:37:20",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -6936,7 +6936,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 22:37:41",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -6949,7 +6949,7 @@
         "action": {
             "type": "Afficher le contenu d'un message",
             "date": "2009-02-15 22:37:51",
-            "categorie": "Operation sur les messages de communication"
+            "category": "Operation sur les messages de communication"
         },
         "trace": {
             "idForum": "7",
@@ -6962,7 +6962,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 22:38:07",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "10"
@@ -6974,7 +6974,7 @@
         "action": {
             "type": "Afficher une structure (cours\/forum)",
             "date": "2009-02-15 22:38:11",
-            "categorie": "Parcours du forum"
+            "category": "Parcours du forum"
         },
         "trace": {
             "idForum": "11"
