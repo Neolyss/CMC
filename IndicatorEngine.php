@@ -33,7 +33,6 @@ class IndicatorEngine
         }
         return array_unique($users);
     }
-
     function getNumberOfConnection($name): array
     {
         $connections = array();
@@ -47,6 +46,75 @@ class IndicatorEngine
         }
         //var_dump($connections);
         return $connections;
+    }
+
+    /**
+     * @throws Exception
+     */
+    function getNumberOfConnectionByWeek($name, $numberOfWeek): array
+    {
+        $connections = array();
+        /**/
+        for($i = 0; $i <= $numberOfWeek; $i++) {
+            $week = $this->weeks[$i];
+            $connectionsUser = array_filter($week, function($k) use ($name) {
+                return $k->action->type == "Connexion" && $k->user == $name;
+            });
+            //var_dump($connectionsUser);
+            if($connectionsUser != null) {
+                $firstDate = new DateTime(current($connectionsUser)->action->date);
+            } else {
+                $firstDate = new DateTime(current($week)->action->date);
+            }
+            $currentWeek = $firstDate->format("W");
+            $connections["Semaine-$currentWeek"] = count($connectionsUser);
+        }
+        return $connections;
+    }
+
+    function getMessageActivityByWeeks($weekNumber): array
+    {
+        $users = $this->getAllUsers();
+        $messageActivity = array();
+        $weekKeys = array_keys($this->weeks);
+
+        $sumMessageUsers = 0;
+        foreach ($users as $user) {
+            $sumMessage = 0;
+            for($i = 0; $i <= $weekNumber; $i++) {
+                $week = $this->weeks[$weekKeys[$i]];
+                // Retrieve traces that only concerns messages interaction from name
+                $arrayMessage = array_filter($week, function ($k) use ($user) {
+                    return $k->action->category == "Operation sur les messages de communication" && $k->user == $user;
+                });
+                $sumMessage += count($arrayMessage);
+            }
+            $messageActivity[$user] = $sumMessage;
+            $sumMessageUsers += $sumMessage;
+        }
+        $averageMessageActivity = $sumMessageUsers / count($users);
+        $messageActivity["average"] = $averageMessageActivity;
+        return $messageActivity;
+    }
+
+    function getMakerActivities($weekNumber): array
+    {
+        $users = $this->getAllUsers();
+        $makerActivities = array();
+        $weekKeys = array_keys($this->weeks);
+        $sumActivity = 0;
+        foreach ($users as $user) {
+            for($i = 0; $i <= $weekNumber; $i++) {
+                $week = $this->weeks[$weekKeys[$i]];
+                // Retrieve traces that only concerns messages interaction from name
+                $arrayMessage = array_filter($week, function ($k) use ($user) {
+                    return $k->user == $user && $k->action->type == "Poster un nouveau message" || $k->action->type == "Upload un ficher avec le message";
+                });
+                $sumActivity += count($arrayMessage);
+            }
+            $makerActivities[$user] = $sumActivity;
+        }
+        return $makerActivities;
     }
 
     function getMessageActivityByName($name): array
